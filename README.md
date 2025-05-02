@@ -17,11 +17,11 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-### 📊 GitHub Stats  
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)  
+### 📊 GitHub Stats  Rezovskiy
+![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezovskiy&show_icons=true&theme=radical&hide_border=true)  
 
 ### 🔝 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezovskiy&layout=compact&theme=radical&hide_border=true)  
 
 ### 📬 Let's Connect  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Res_Rezovskiy)  

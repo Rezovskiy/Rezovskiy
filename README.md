@@ -5,7 +5,7 @@
 - 🎓 Studying at **"Академия ТОП" (Moscow)**  
 - 💡 Passionate about **backend development & open-source**  
 - 🌍 Fluent in **Russian, English, Spanish**  
-- ⚡ Fun fact: **I run a programming Telegram channel!**  
+- ⚡ Fun fact: **I like to play chess**  
 
 ### 🛠️ Tech Stack  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)

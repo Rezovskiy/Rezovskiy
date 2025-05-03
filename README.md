@@ -4,7 +4,7 @@
 - 🚀 Programming for **1.5+ years**  
 - 🎓 Studying at **"Академия ТОП" (Moscow)**  
 - 💡 Passionate about **backend development & open-source**  
-- 🌍 Fluent in **Russian, English, Persian**  
+- 🌍 Fluent in **Russian, English, Spanish**  
 - ⚡ Fun fact: **I run a programming Telegram channel!**  
 
 ### 🛠️ Tech Stack  

@@ -1,7 +1,7 @@
 # Hi there, I'm Nikita! 👋  
 
 ### 💻 About Me  
-- 🚀 Programming for **1.5+ years**  
+- 🚀 Programming for **3.5+ years**  
 - 🎓 Studying at **"Академия ТОП" (Moscow)**  
 - 💡 Passionate about **backend development & open-source**  
 - 🌍 Fluent in **Russian, English, Spanish**  
